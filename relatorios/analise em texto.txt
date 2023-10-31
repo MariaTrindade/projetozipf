@@ -1,0 +1,14 @@
+Total de palavras distintas: 6011
+Total de palavras: 51408
+
+10+ Palavras: 
+1ª ('que', 1990)
+2ª ('de', 1932)
+3ª ('a', 1748)
+4ª ('o', 1485)
+5ª ('e', 1277)
+6ª ('é', 944)
+7ª ('se', 814)
+8ª ('você', 768)
+9ª ('não', 749)
+10ª ('para', 647)
